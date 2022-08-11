@@ -39,7 +39,7 @@ LoanStats_2019Q1 dataset has 115,675 loan applications. In order to determine wh
   
    * The balanced accuracy score is 63%.
 
-  ![smotescore](https://github.com/meliscelikay/Credit_Risk_Analysis/blob/3a8a42e3549cc973eb9c255b22fca915ae45d502/Resources/smoteennscore.png)
+  ![smotescore](https://github.com/meliscelikay/Credit_Risk_Analysis/blob/aa75be481f5273415eceb4eebdc3723bae1f2441/Resources/smotescore.png)
 
    * The `high_risk` precision rate about 1% with 60% recall which F1 makes 2% again.
    * The `low risk`  precision rate is 100% and recall at 66%.
